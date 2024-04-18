@@ -14,7 +14,7 @@ Aplicação Java com container checkpoint 2 - 1° Semestre
 #### Clone
 
 ```
-git clone https://github.com/art5hur/fiap-checkpoint2.git
+git clone https://github.com/thouser12/fiap-checkpoint2.git
 ```
 
 ## Execução
