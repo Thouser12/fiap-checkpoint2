@@ -47,7 +47,7 @@ docker run -d -p 8080:8080 -e PROFILE=prd fiap-checkpoint2
 
 ## Navegação
 
-- Base em <dev>
+- Base em 'dev'
 
 http://localhost:8080/h2-console 
 
