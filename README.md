@@ -47,18 +47,27 @@ docker run -d -p 8080:8080 -e PROFILE=prd fiap-checkpoint2
 
 ## Navegação
 
-- Base
+- Base em <dev>
 
-http://localhost:8080
+http://localhost:8080/h2-console 
 
-- Endpoint que retorna string "Pong em <prd|dev|stg>"
+- Username
 
-http://localhost:8080/ping 
+sa
 
+- Senha
+
+password
 
 ## Features (Funcionalidades)
 
-- Múltiplos profiles
+### Múltiplos bancos de dados
+
+-H2 = dev
+
+-mySQL = prd
+
+-Oracle = stg
 
 ## Integrantes
 
