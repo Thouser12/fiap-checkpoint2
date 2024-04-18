@@ -63,11 +63,11 @@ http://localhost:8080/h2-console
 
 ### Múltiplos bancos de dados
 
--H2 = dev
+- H2 = dev
 
--mySQL = prd
+- mySQL = prd
 
--Oracle = stg
+- Oracle = stg
 
 ## Integrantes
 
