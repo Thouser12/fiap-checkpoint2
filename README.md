@@ -73,5 +73,5 @@ http://localhost:8080/h2-console
 
 - Arthur Miranda Santos - RM:93023  -  https://hub.docker.com/repository/docker/art5hur/fiap-checkpoint2/general
 - Thomas D'ávila Meyer Pflug - RM:92915  -  https://hub.docker.com/repository/docker/thouser12/fiap-checkpoint2/general
-- Renan Bandeira Leite - RM:96168 - https://hub.docker.com/repository/docker/RenanLeite7/fiap-checkpoint2/general
+- Renan Bandeira Leite - RM:96168 - https://hub.docker.com/repository/docker/renanleite7/fiap-checkpoint2/general
 
